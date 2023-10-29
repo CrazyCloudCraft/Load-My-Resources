@@ -1,6 +1,8 @@
 {
     "pack": {
-        "description": "LMR Resources",
-        "pack_format": 7
+        "pack_format": 18,
+        "description": "LMR Resources"
+    },
+    "filter": {
     }
 }
